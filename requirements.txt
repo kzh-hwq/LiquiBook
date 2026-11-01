@@ -1,0 +1,7 @@
+altair
+certifi
+pandas
+pytest
+python-dotenv
+streamlit
+websocket-client
