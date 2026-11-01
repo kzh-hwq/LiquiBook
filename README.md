@@ -1,4 +1,4 @@
-# [Tên dự án]
+# LiquiBook
 
 Giám sát thanh khoản và áp lực sổ lệnh trên HOSE, dùng **NEO API của VPBankS** (kênh WebSocket `stockInfo`, sổ lệnh 3 mức giá).
 
